@@ -4,7 +4,7 @@ import React from 'react';
 
 import Primeiro from './components/basicos/Primeiro' //no import Primeiro pode ser import batatas desde que <batatas></batatas>
 
-
+/* jsx é uma abstraçao que permite escrever uma sintaxe do tipo html no codigo js*/
 
 reactDom.render( //batatas.render
 	<div>
