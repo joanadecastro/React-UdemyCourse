@@ -15,11 +15,5 @@ reactDom.render( //batatas.render
 	document.getElementById('root')
 )
 
-reactDom.render( //batatas.render
-	<div id="app">
-		<Primeiro></Primeiro>
-		<ComParametro titulo="segundo componente" subtitulo="Muito legal!"></ComParametro>
-	</div>,
-	document.getElementById('root')
-)
+
 
